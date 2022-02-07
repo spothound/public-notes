@@ -1,11 +1,4 @@
-# Obsidian Notes
+I am a software engineer from Spain with experience in cloud computing, security, QA and automation.
 
-Publish your public notes with MkDocs
+Those are my public notes available for anyone where I share everything I found interesting on my career learning path.
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
