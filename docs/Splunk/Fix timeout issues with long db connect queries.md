@@ -1,6 +1,6 @@
 Splunk has an application called "Splunk DB Connect", you can configure it to make DB queries to any DB. 
 
-![[Pasted image 20220208171116.png]]
+![[splunk_error.png]]
 
 By default, this app has a query timeout of 30 seconds and, sometimes, your queries will grow in time required to retrieve an answer and will fail with an error very similar to the following one:
 
